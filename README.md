@@ -9,10 +9,12 @@ Menu Options
 	4.	Delete Task: Prompts for a task number to delete and removes that task from the task list.
 	5.	Exit: Exits the application.
 
- task,worked,streak
+```
+task,worked,streak
 
 Learn Common Lisp,10,3
 Write a Compiler in C,5,2
+```
 
 Example Usage
 
